@@ -8,28 +8,27 @@ Course:
 
 Imran Afzal Linux Administration
 
-Topics Covered
+## Repository Structure:
 
-✔ Linux Basics
+Notes/
 
-✔ Shell
+Scripts/
 
-✔ Users
+Labs/
 
-✔ Networking
+Projects/
 
-✔ Shell Scripting
+CheatSheets/
 
-✔ Storage
+Screenshots/
 
-Repository Structure:
 
-Notes
+## Topics Covered
 
-Scripts
+- 
 
-Labs
+## Progress
 
-CheatSheets
+- [ ] 
 
-Screenshots
+
